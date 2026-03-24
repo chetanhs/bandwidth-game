@@ -2,6 +2,15 @@
 
 A browser-based corporate career RPG where you manage Bandwidth, Burnout, and Autonomy, survive chaos events, and climb from L3 Engineer to CEO. Built entirely using an AI-driven development workflow — from spec to code to automated UI review.
 
+--
+
+## Why did I build this?
+I run clauderules.net, a directory for Claude system prompts and MCP servers. I wanted to prove how powerful Claude Code can be if you give it strict architectural rules.
+
+So, I used my own Claude rules to autonomously build a satirical game about the very industry that is currently trying to automate us.
+
+Yes, this game is essentially an over-engineered portfolio piece for my website. But frankly, I'd rather build a playable pixel-art PM fist-fight than pay for Google Ads. I hope you enjoy the trauma.
+
 ---
 
 ## How This Was Built
