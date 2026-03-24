@@ -1,0 +1,33 @@
+# Secrets
+.env
+.env.*
+
+# Claude session data
+.claude/
+
+# Editor
+.vscode/
+.DS_Store
+
+# Dependencies
+node_modules/
+bandwidth/node_modules/
+
+# Build output
+bandwidth/dist/
+bandwidth/dist-ssr/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Playwright output
+bandwidth/test-results/
+bandwidth/playwright-report/
+bandwidth/blob-report/
+bandwidth/playwright/.cache/
+bandwidth/playwright/.auth/
+
+# UX screenshots (large PNGs)
+ux-screenshots/
+bandwidth/ux-screenshots/
